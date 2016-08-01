@@ -1,0 +1,19 @@
+{
+  "name": "HTML",
+  "description": "HTML",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/bower_components"
+  ],
+  "dependencies": {
+    "modernizr": "^3.3.1"
+  }
+}
